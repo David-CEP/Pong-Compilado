@@ -4,7 +4,7 @@
 Flecha arriba - Mover jugador de la derecha arriba
 Flecha abajo - Mover jugador de la derecha abajo
 
-W - Mover jugador de la izquierda arriba
+W - Mover jugador de la izquierda arriba <br>
 S - Mover jugador de la izquierda abajo
 
 I - Convertir el jugador de la izquierda en IA
